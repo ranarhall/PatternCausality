@@ -1,0 +1,23 @@
+evacuation	expenses	sparked by|sparked from|set off by|set off from|started by|started from|resulting from|caused by|caused from|produced by|created by	Y Z X
+evacuation	expenses	sparked by|sparked from|set off by|set off from|started by|started from|resulting from|caused by|caused from|produced by|created by	Y, which Z X
+arrival	tardiness	caused|brought about|precipitated|incited|triggered|prompted	Y has been Z by the X
+arrival	tardiness	caused|brought about|precipitated|incited|triggered|prompted	Y, which has been Z by the X
+idea	response	instigated|induced|influenced|impeded|prevented|mitigated|precipitated|incited|triggered|prompted	Y is Z by X
+idea	response	instigated|induced|influenced|impeded|prevented|mitigated|precipitated|incited|triggered|prompted	Y, which is Z by X
+medicine	sickness	instigated|induced|influenced|impeded|mitigated|caused|precipitated|incited|triggered|prompted	Y was Z by X
+medicine	sickness	instigated|induced|influenced|impeded|mitigated|caused|precipitated|incited|triggered|prompted	Y, which was Z by X
+fire	damage	due to|secondary to|induced by|on account of|attributed to|effect of|caused by|brought about by|created by|because of|the reason for	Y is Z X
+fire	damage	due to|secondary to|induced by|on account of|attributed to|effect of|caused by|brought about by|created by|because of|the reason for	Y, which is Z X
+fire	damage	due to|secondary to|induced by|on account of|attributed to|effect of|caused by|brought about by|created by|because of|the reason for	Y can be Z X
+fire	damage	cause|origin|culprit|root|source|creator|producer|progenitor|starter	X is Z of Y
+fire	damage	cause|origin|culprit|root|source|creator|producer|progenitor|starter	X, which is Z of Y
+fire	damage	result|product|outcome|reaction|aftereffect|aftermath|outgrowth|payoff|repercussion|corollary|by-product	Y is the Z of X
+fire	damage	result|product|outcome|reaction|aftereffect|aftermath|outgrowth|payoff|repercussion|corollary|by-product	Y, which is the Z of X
+idea	response	precipitated|incited|triggered|prompted	X Z his Y
+explosions	injuries	made|caused|brought about|precipitated|incited|triggered|prompted	X Z Y
+medicine	sickness	cause|result|product|influence	Y could be the Z of the X
+fire	the damage	cause of|reason for	X is the Z Y
+fire	damage	effect on|reason for	X has Z Y
+fire	damage	related to|reason for|a risk factor for|a strong risk factor for|a major cause of|a factor of|a factor for|associated with	X is Z Y
+fire	damage	related to|reason for|a risk factor for|a strong risk factor for|a major cause of|a factor of|a factor for	X, which is Z Y
+damage	fire	from	Y Z X

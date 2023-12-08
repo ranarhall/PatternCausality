@@ -1,0 +1,28 @@
+1.0,1.0,"['y,noun,relcl,be', 'be,aux,acomp,due', 'due,adj,prep,to', 'to,adp,pobj,x']",1
+0.7380952380952381,0.872093023255814,"['cause,verb,nsubj,x', 'cause,verb,dobj,y']",86
+0.5223880597014925,0.6268656716417911,"['associate,verb,nsubjpass,x', 'associate,verb,prep,with', 'with,adp,pobj,y']",134
+0.7142857142857143,0.8571428571428571,"['attribute,verb,nsubjpass,y', 'attribute,verb,prep,to', 'to,adp,pobj,x']",7
+0.5,0.75,"['be,aux,nsubj,y', 'be,aux,attr,the result', 'the result,noun,prep,of', 'of,adp,pobj,x']",4
+0.5616438356164384,0.7333333333333333,"['y,noun,acl,cause', 'cause,verb,agent,by', 'by,adp,pobj,x']",75
+0.625,0.8235294117647058,"['y,noun,acl,produce', 'produce,verb,agent,by', 'by,adp,pobj,x']",17
+0.5454545454545454,0.6363636363636364,"['y,noun,acl,result', 'result,verb,prep,from', 'from,adp,pobj,x']",11
+0.5454545454545454,0.7272727272727273,"['be,aux,nsubj,y', 'be,aux,acomp,due', 'due,adj,prep,to', 'to,adp,pobj,x']",11
+0.6,0.5882352941176471,"['cause,verb,nsubjpass,y', 'cause,verb,agent,by', 'by,adp,pobj,x']",17
+0.6666666666666666,0.7142857142857143,"['trigger,verb,nsubjpass,y', 'trigger,verb,agent,by', 'by,adp,pobj,x']",7
+0.0,0.0,"['y,noun,relcl,induce', 'induce,verb,agent,by', 'by,adp,pobj,x']",2
+0.75,1.0,"['induce,verb,nsubjpass,y', 'induce,verb,agent,by', 'by,adp,pobj,x']",4
+0.0,0.0,"['prevent,verb,nsubjpass,y', 'prevent,verb,agent,by', 'by,adp,pobj,x']",2
+0.5714285714285714,0.6428571428571429,"['be,aux,nsubj,y', 'be,aux,acomp,due', 'due,adp,prep,to', 'to,adp,pobj,x']",14
+0.0,0.0,"['be,aux,nsubj,y', 'be,aux,prep,because', 'because,sconj,pobj,x']",2
+0.0,1.0,"['y,noun,acl,create', 'create,verb,agent,by', 'by,adp,pobj,x']",1
+0.5,0.8333333333333334,"['trigger,verb,nsubj,x', 'trigger,verb,dobj,y']",6
+1.0,1.0,"['be,aux,nsubj,x', 'be,aux,attr,a strong risk factor', 'a strong risk factor,noun,prep,for', 'for,adp,pobj,y']",1
+1.0,1.0,"['prompt,verb,nsubj,x', 'prompt,verb,dobj,y']",1
+1.0,1.0,"['make,verb,nsubj,x', 'make,verb,dobj,y']",1
+1.0,1.0,"['y,noun,relcl,cause', 'cause,verb,agent,by', 'by,adp,pobj,x']",1
+1.0,1.0,"['be,aux,nsubj,y', 'be,aux,attr,the product', 'the product,noun,prep,of', 'of,adp,pobj,x']",1
+0.5,1.0,"['influence,verb,nsubjpass,y', 'influence,verb,agent,by', 'by,adp,pobj,x']",2
+1.0,1.0,"['be,aux,nsubj,x', 'be,aux,attr,the cause', 'the cause,noun,prep,of', 'of,adp,pobj,y']",1
+0.0,0.0,"['be,aux,nsubj,y', 'be,aux,attr,the cause', 'the cause,noun,prep,of', 'of,adp,pobj,x']",1
+1.0,1.0,"['precipitate,verb,nsubj,x', 'precipitate,verb,dobj,y']",4
+1.0,1.0,"['bring,verb,nsubjpass,y', 'bring,verb,agent,by', 'by,adp,pobj,x']",1
